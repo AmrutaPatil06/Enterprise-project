@@ -54,7 +54,6 @@ Course Stats: What You’ll Get
 
 GitHub:- https://github.com/rahulsahay19/Java-React-FullStack
 
-Enroll here:- https://www.udemy.com/course/building-fullstack-e-commerce-app-using-springboot-react/?couponCode=OFFER-PRICE
 
 Solution Walkthrough:
 
@@ -87,6 +86,5 @@ Solution Walkthrough:
 
 GitHub:- https://github.com/rahulsahay19/Java-React-FullStack
 
-Enroll here:- https://www.udemy.com/course/building-fullstack-e-commerce-app-using-springboot-react/?couponCode=OFFER-PRICE
 
 Thanks for Joining me. Happy Learning.
